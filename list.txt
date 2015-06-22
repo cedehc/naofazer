@@ -2,4 +2,5 @@ Como evitar erros grotescos
 
  - Nunca colocar 127.0.0.1 EM LUGAR NENHUM (nem server.js, nem mongodb.conf)
  - Não contar com variáveis de ambiente provento uma path para salvar arquivos de configuração. Grandes chances de dar merda
- - 
+ - Não nomear variáveis usando palavras reservadas. Isso pode dar uma grande dor de cabeça
+ - NUNCA deixe de RTFM
